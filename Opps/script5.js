@@ -93,15 +93,15 @@ return q8
   // set as parameter and set as return type 
 
 
- let names2 = new Set(["a","b","c"])
-names.add("d");
-  console.log(names2)
+//  let names2 = new Set(["a","b","c"])
+// names.add("d");
+//   console.log(names2)
 
-  let setA  = new Set()
-  //console.log(setA )
+//   let setA  = new Set()
+//   //console.log(setA )
  
-  setA.add(11)
-  console.log(setA)
+//   setA.add(11)
+//   console.log(setA)
  
 
 // map as parameter and map as return type 

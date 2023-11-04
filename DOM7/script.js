@@ -16,5 +16,5 @@
    buttonA.addEventListener('click',function(){
      let colorText = inputText.value
      headone.style.color = colorText
-     inputTex. value = " "
+     inputText. value = " "
    })

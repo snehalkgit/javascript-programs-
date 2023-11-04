@@ -107,3 +107,5 @@ else {
  let q = 8
   let r = 4
    q > r ? console.log("q is greater"):console.log("r is greater")
+
+   
