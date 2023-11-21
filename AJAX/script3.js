@@ -128,7 +128,7 @@
 
 //-- async function
 
- async function getusera(){
+ async function getusers(){
   let a =  await ("creat user")
   console.log(a)
    let b = await  (" get id")
@@ -136,5 +136,6 @@
     let c = await (" get info")
     console.log(c)
  }
- getusera()
+ getusers()
+ 
  
