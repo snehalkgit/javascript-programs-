@@ -98,18 +98,18 @@ class Teacher extends students{
     }
  }
 
-  let snehal2 = new daughter("kawadu","kamble","snehal")
-  let shubham =new son("kawadu","kamble","shubham")
+  let snehal2 = new daughter("jyotsna","kamble","snehal")
+  let yash =new son("jyotsna","kamble","yash")
 
  console.log( snehal2.firstname)
  console.log( snehal2.lastname)
  console.log( snehal2.dname)
- console.log( shubham.firstname)
- console.log( shubham.lastname)
- console.log( shubham.sname)
+ console.log( yash.firstname)
+ console.log( yash.lastname)
+ console.log( yash.sname)
 
  snehal2.displayname()
  snehal2.displaydname()
- shubham.displaysname()
+ yash.displaysname()
 
  

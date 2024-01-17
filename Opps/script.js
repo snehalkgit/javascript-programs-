@@ -1,4 +1,9 @@
 // OBJECT LETERAL
+
+//es6 class 
+//function construction
+//object.create
+
 // PROGEAM 1
   let info={
     firstname : "snehal",
