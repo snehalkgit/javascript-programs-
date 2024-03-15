@@ -12,7 +12,7 @@ function getUsers(pageNumber){
             document.write(`<p>${el.id}</p>`)
             document.write(`<img src = "${el.avatar}">`)
         });
-    })
+    })    
 }
 //getUsers(2)
 buttonA.addEventListener('click',function(){

@@ -15,11 +15,11 @@ x.display()
 
 
 let y = {
-    firstName: "shubha",
-    lastName: "gedam",
+    firstName: "archna",
+    lastName: "kanuje",
     age: 28,
     display: function () {
-        console.log(this.firstName + this.lastName)
+        console.log(this.fir2stName + this.lastName)
     }
 }
 y.display()

@@ -21,7 +21,7 @@ function getSingle(id){
     })
 }
 
- function renderHtml(obj){
+ function renderHtml(obj ){
     document.write(`<h1>${obj.first_name}${obj.last_name}</h1>`)
     document.write(`<p>${obj.email}</p>`)
     document.write(`<p>${obj.id}</p>`)

@@ -34,7 +34,7 @@ let t = 10
 // function without parameter and without return type 
 
 function addA(){
-    +console.log(7+8)
+    console.log(7+8)
 }
 
 addA()

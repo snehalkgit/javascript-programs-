@@ -31,7 +31,6 @@ let pro2 = new Promise(function (resolve, reject) {
     }
 })
 
-
 //program4
 
 let pro4 = new Promise(function (resolve, reject) {
@@ -81,7 +80,6 @@ let pro3 = new Promise(function (resolve, reject) {
         reject({ firstName: "monika", lastName: "naik" })
     }
 })
-
 pro3.then(function (obj) {
     console.log(obj)
     let { firstName, lastName } = obj
