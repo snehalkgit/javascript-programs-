@@ -41,12 +41,12 @@ console.log(s)
 var firstName = "sneha"
 var lastname = " raut "
 let info2 = {
-   firstName: "sneha",
-   lastname: "raut",
+   firstName: "snehal",
+   lastname: "kamble",
    display: function () {
       console.log(this.firstName + this.lastname)
       console.log(this)
-      let display2 = function () {
+      let display2 =  ()=> {
          console.log(this.firstName + this.lastname)
       }
       display2()

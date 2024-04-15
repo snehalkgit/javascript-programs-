@@ -16,8 +16,8 @@ function getSingleUserInfo(id){
         console.log(response)
         return response.json()
     })
-    .then(function(responsne){
-        return responsne.data
+    .then(function(response){
+        return response.data
     })
 }
 

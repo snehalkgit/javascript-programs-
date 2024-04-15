@@ -10,7 +10,7 @@ console.log(y)
   const x2 = 500
   console.log(x2)
 
-  //Airthmatic eq+yuation 
+  //Airthmatic equation 
 
   let s = 10 
 let t = 10
@@ -20,7 +20,7 @@ let t = 10
     console.log(s/t)
 
 
-    ///function ----
+    ///function ----  
      function calculator(x,y){
         console.log(x+y)
         console.log(x-y)
